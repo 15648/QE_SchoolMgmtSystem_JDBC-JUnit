@@ -1,0 +1,11 @@
+TEACHING_ID    COURSE_NAME        MINIMUM_GAP        FULL_NAME          EMAIL
+10             Physics            3.4                Ruthann Keener     ruthann@hotmail.com
+9              History            3.0                lance              lance@gmail.com
+8              Programming        3.2                Loren Asar         loren.asar@aol.com
+7              DevUps             2.8                Luke               luke@gmail.com
+6              AVM                2.5                Loren Asar         loren.asar@aol.com
+5              Soc Analyst        3.3                Kati Rulapaugh     kati.rulapaugh@hotmail.com
+4              GYM                2.8                Ruthann Keener     ruthann@hotmail.com
+1              Math               3.1                Luke               luke@gmail.com
+2              Science            3.2                mark               mark@gmail.com
+3              English            3.1                lance              lance@gmail.com

@@ -1,0 +1,3 @@
+COURSE_ID     COURSE_NAME     MINIMUM_GPA
+65            AVM             2.5
+63            Programming     3.2

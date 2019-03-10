@@ -1,0 +1,14 @@
+COURSE_ID    COURSE_NAME       MINIMUM_GPA
+61           Physics           3.4
+62           History           3.0
+63           Programming       3.2
+64           DevUps            2.8
+65           AVM               2.5
+66           Soc Analyst       3.3
+67           Web Development   3.0
+68           Robotics          3.8
+69           Foreign Language  2.9
+41           GYM               2.8
+1            Math              3.1
+2            Science           3.2
+3            English           3.1

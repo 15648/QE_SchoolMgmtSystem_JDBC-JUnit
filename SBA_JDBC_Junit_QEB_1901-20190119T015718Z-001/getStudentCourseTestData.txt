@@ -1,0 +1,5 @@
+ATTENDING_ID  COURSE_NAME      FULL_NAME          EMAIL
+23            DevUps           Luke               luke@gmail.com
+25            History          lance              lance@gmail.com
+26            Physics          Ruthann Keener     ruthann@hotmail.com
+24            Programming      Loren Asar         loren.asar@aol.com

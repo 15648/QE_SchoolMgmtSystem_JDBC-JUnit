@@ -1,0 +1,7 @@
+INSTRUCTOR_ID    FULL_NAME        EMAIL                       SPECIALITY      ADMIN_ROLE  PASS
+1                Luke             luke@gmail.com              Mathemathician  0           444
+2                lance            lance@gmail.com             scientis        0           555
+3                mark             mark@gmail.com              History         1           666
+21               Ruthann Keener   ruthann@hotmail.com         Physics         0           78028
+22               Kati Rulapaugh   kati.rulapaugh@hotmail.com  Analyst         0           67410
+23               Loren Asar       loren.asar@aol.com          English         1           18518
